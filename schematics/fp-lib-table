@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BPOV)(type KiCad)(uri ${KIPRJMOD}/BPOV.pretty)(options "")(descr ""))
+)
