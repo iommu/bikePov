@@ -1,4 +1,4 @@
-# bike_pov
+# bikePov
 A POV(Persistence Of Vision) bike wheel display
 
 This is a small custom project to attempt to cheaply make an easy to use custom POV bike display for drawing custom LED images on bike wheels.

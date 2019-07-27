@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:bike_pov-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -541,12 +540,5 @@ Text Label 4400 4550 0    50   ~ 0
 GND_in
 NoConn ~ 4700 4450
 Wire Wire Line
-	3250 4000 3250 4450
-Wire Wire Line
-	3250 4450 1950 4450
-Wire Wire Line
-	1950 4450 1950 4350
-Wire Wire Line
-	2900 4000 3250 4000
-Connection ~ 1950 4350
+	2900 4000 3150 4000
 $EndSCHEMATC

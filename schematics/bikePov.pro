@@ -1,4 +1,4 @@
-update=Wed 24 Jul 2019 10:23:27 PM AEST
+update=Sat 27 Jul 2019 12:12:42 PM AEST
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=bike_pov.net
+LastNetListRead=bikePov.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
